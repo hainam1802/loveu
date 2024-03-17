@@ -12,9 +12,9 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Embecuato">
     <meta property="og:description" content="Embecuato">
-    <meta property="og:image" content="/assets/image/image4.jpg">
-    <meta property="og:image:url" content="/assets/image/image4.jpg">
-    <meta property="og:image:secure_url" content="/assets/image/image4.jpg">
+    <meta property="og:image" content="/assets/image/love.png">
+    <meta property="og:image:url" content="/assets/image/love.png">
+    <meta property="og:image:secure_url" content="/assets/image/love.png">
     <meta name="format-detection" content="telephone=no">
     <link href="/assets/css/love.css?v={{ time() }}" rel="stylesheet">
 </head>
