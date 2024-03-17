@@ -14,7 +14,7 @@
     <meta property="og:description" content="Embecuato">
     <meta property="og:image" content="/assets/image/love.png">
     <meta property="og:image:url" content="/assets/image/love.png">
-    <meta property="og:image:secure_url" content="/assets/image/love.png">
+    <meta property="og:image:secure_url" content="/assets/image/haidua.jpg">
     <meta name="format-detection" content="telephone=no">
     <link href="/assets/css/love.css?v={{ time() }}" rel="stylesheet">
 </head>

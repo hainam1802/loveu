@@ -19,7 +19,7 @@ body {
 
 .right {
     margin-left:-60px;
-    left:20%;
+    left:50%;
     animation:flap1 1s infinite;
     border-bottom:3px solid rgba(0,0,0,.08);
     border-radius: 12px 20px 60px 20px;
@@ -65,7 +65,7 @@ body {
 .left {
     border-radius:12px 20px 20px 60px;
     margin-left:-60px;
-    left:80%;
+    left:50%;
     animation:flap2 1s infinite;
     border-bottom:3px solid rgba(0,0,0,.08);
     transform:rotate(10deg) translate(-248px, 0);
@@ -215,4 +215,15 @@ a{
     font-size: 1.5em;
     color: #e94d58;
     font-weight: 500;
+}
+@media only screen and (max-width: 600px) {
+    .left {
+        left:80%;
+    }
+
+    .right {
+        left:20%;
+      
+    }
+
 }

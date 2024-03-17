@@ -12,11 +12,11 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Embecuato">
     <meta property="og:description" content="Embecuato">
-    <meta property="og:image" content="/assets/image/image4.jpg">
-    <meta property="og:image:url" content="/assets/image/image4.jpg">
-    <meta property="og:image:secure_url" content="/assets/image/image4.jpg">
+    <meta property="og:image" content="/assets/image/love.jpg">
+    <meta property="og:image:url" content="/assets/image/love.jpg">
+    <meta property="og:image:secure_url" content="/assets/image/love.jpg">
     <meta name="format-detection" content="telephone=no">
-    <link rel="shortcut icon" type="image/x-icon" href="/assets/image/love.png">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/image/haidua.jpg">
     <link href="/assets/css/style.css?v={{ time() }}" rel="stylesheet">
 </head>
 
