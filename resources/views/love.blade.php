@@ -20,8 +20,8 @@
 </head>
 
 <body id="home">
-<div id="wrapper">
-    <h2 id="question">Bạn sẵn sàng chưa? <br> <small>(Thử nhấn vào "Hmm..." xem 🤭)</small> </h2>
+<div id="wrapper" style="text-align: center">
+    <h2 id="question">Bạn sẵn sàng chưa? <br> <small>(Thử nhấn vào "Hmm..." xem🤭)</small> </h2>
     <img
             id="gif"
             alt="gif"
@@ -43,7 +43,7 @@
     const noBtn = document.getElementById("no-btn");
 
     yesBtn.addEventListener("click", () => {
-        question.innerHTML = "Yay, vậy tìm mình diiiii 🥰🥰🥰";
+        question.innerHTML = "Yay, vậy tìm mình diiiii </br> 🥰🥰🥰";
         gif.src = "/assets/image/image2.webp";
         yesBtn.style.display = "none";
         noBtn.style.display = "none";

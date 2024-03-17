@@ -32,7 +32,7 @@
         <div class="sides"></div>
     </div>
 
-    <div id="hehe">👆👆👆 Click it 👆👆👆</div>
+    <div id="hehe">👆 Click it 👆</div>
 </a>
 
 </body>
